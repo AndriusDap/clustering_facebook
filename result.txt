@@ -1,0 +1,64 @@
+out\0.edges
+out\107.edges
+out\1684.edges
+out\1912.edges
+out\0.edges: GirvanNewman comunitySizes: [140, 39, 27, 22, 13, 10, 9, 8, 7, 7, 6, 5, 5, 3, 3, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+out\0.edges: CNM comunitySizes: [119, 47, 23, 32, 33, 52, 10, 2, 8, 3, 2, 2]
+data\0.edges: modularity GirvanNewman 0.414558210321 modularity CNM 0.445852174526 modularity before 0.0
+out\3437.edges
+out\3437.edges: GirvanNewman comunitySizes: [169, 138, 53, 41, 29, 23, 19, 14, 10, 7, 6, 6, 3, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1]
+out\3437.edges: CNM comunitySizes: [137, 39, 165, 79, 24, 42, 20, 19, 7, 2]
+data\3437.edges: modularity GirvanNewman 0.649699401713 modularity CNM 0.654973507627 modularity before 0.0
+out\348.edges
+out\348.edges: GirvanNewman comunitySizes: [85, 18, 10, 7, 3, 3, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+out\348.edges: CNM comunitySizes: [104, 82, 10, 8, 18, 2]
+data\348.edges: modularity GirvanNewman 0.152422978656 modularity CNM 0.24829765124 modularity before 0.0
+out\3980.edges
+out\3980.edges: GirvanNewman comunitySizes: [12, 9, 6, 4, 4, 3, 3, 2, 2, 2, 1, 1, 1, 1, 1]
+out\3980.edges: CNM comunitySizes: [15, 16, 13, 2, 4, 2]
+data\3980.edges: modularity GirvanNewman 0.388815912929 modularity CNM 0.450178269844 modularity before 0.0
+out\414.edges
+out\414.edges: GirvanNewman comunitySizes: [72, 51, 25, 2]
+out\414.edges: CNM comunitySizes: [25, 69, 51, 3, 2]
+data\414.edges: modularity GirvanNewman 0.543082265358 modularity CNM 0.543766958139 modularity before 0.0
+out\686.edges
+out\686.edges: GirvanNewman comunitySizes: [114, 30, 4, 3, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+out\686.edges: CNM comunitySizes: [56, 63, 37, 4, 5, 3]
+data\686.edges: modularity GirvanNewman 0.146392710448 modularity CNM 0.289693531354 modularity before 0.0
+out\698.edges
+out\698.edges: GirvanNewman comunitySizes: [25, 10, 9, 8, 4, 4, 1]
+out\698.edges: CNM comunitySizes: [12, 19, 16, 5, 9]
+data\698.edges: modularity GirvanNewman 0.509231824417 modularity CNM 0.535336076818 modularity before 0.0
+out\1684.edges: GirvanNewman comunitySizes: [331, 218, 51, 25, 21, 19, 15, 9, 8, 7, 6, 6, 4, 4, 3, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+out\1684.edges: CNM comunitySizes: [409, 226, 70, 20, 8, 6, 19, 23, 3, 2]
+data\1684.edges: modularity GirvanNewman 0.511961215172 modularity CNM 0.520822837039 modularity before 0.0
+out\0.edges
+out\107.edges
+out\1684.edges
+out\1912.edges
+out\0.edges: CNM comunitySizes: [119, 47, 23, 32, 33, 52, 10, 2, 8, 3, 2, 2]
+data\0.edges: modularity modularity CNM 0.445852174526 modularity before 0.0
+out\3437.edges
+out\3437.edges: CNM comunitySizes: [137, 39, 165, 79, 24, 42, 20, 19, 7, 2]
+data\3437.edges: modularity modularity CNM 0.654973507627 modularity before 0.0
+out\348.edges
+out\1684.edges: CNM comunitySizes: [409, 226, 70, 20, 8, 6, 19, 23, 3, 2]
+data\1684.edges: modularity modularity CNM 0.520822837039 modularity before 0.0
+out\3980.edges
+out\348.edges: CNM comunitySizes: [104, 82, 10, 8, 18, 2]
+data\348.edges: modularity modularity CNM 0.24829765124 modularity before 0.0
+out\414.edges
+out\3980.edges: CNM comunitySizes: [15, 16, 13, 2, 4, 2]
+data\3980.edges: modularity modularity CNM 0.450178269844 modularity before 0.0
+out\686.edges
+out\414.edges: CNM comunitySizes: [25, 69, 51, 3, 2]
+data\414.edges: modularity modularity CNM 0.543766958139 modularity before 0.0
+out\698.edges
+out\698.edges: CNM comunitySizes: [12, 19, 16, 5, 9]
+data\698.edges: modularity modularity CNM 0.535336076818 modularity before 0.0
+out\686.edges: CNM comunitySizes: [56, 63, 37, 4, 5, 3]
+data\686.edges: modularity modularity CNM 0.289693531354 modularity before 0.0
+out\107.edges: CNM comunitySizes: [458, 464, 4, 71, 19, 3, 6, 2, 2, 3, 2]
+data\107.edges: modularity modularity CNM 0.458131494561 modularity before 0.0
+out\1912.edges: CNM comunitySizes: [254, 72, 290, 125, 3, 3]
+data\1912.edges: modularity modularity CNM 0.521340309664 modularity before 0.0
